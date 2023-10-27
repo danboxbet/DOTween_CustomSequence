@@ -5,6 +5,7 @@
  ![удобно](https://dotween.demigiant.com/_imgs/splash_dotween.png)
  -------------------------------------------------------------------------------------------------------------------------------------------------------
  ***Затем импортируйте*** **<ins>CustomSequence</ins>** ***в папку ассетов.***
+ 
  Для начала работы добавьте компонент **<ins>SettingsElementDOTween</ins>** на нужный объект.
  
   ![Settings](https://github.com/danboxbet/DOTween_CustomSequence/assets/122733719/7bee4ff5-f9a2-47fe-9dab-e0b49cabd286)
