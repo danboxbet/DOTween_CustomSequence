@@ -1,5 +1,5 @@
 # DOTween_CustomSequence
- A convenient component for creating sequences
+ ***Для работы необходимо импортировать в ваш проект [DOTween](https://dotween.demigiant.com/)***
 
  ## Добавление стандартных твинов в секвенцию
 
